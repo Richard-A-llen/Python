@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T03:23:55.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="eZbE3TiG3HBMX-vtBoI6" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T03:34:53.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="FG-FKXjeOCaaEvLzWMaQ" version="18.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1384" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
             <mxPoint x="960.0600000000001" y="854.94" as="targetPoint" />
             <mxPoint x="908.0600000000001" y="764.94" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bt1sG3O_FPqmAOzxdh9N-1" target="Za7b8PjsQ_Q9GH5Rkt4r-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bt1sG3O_FPqmAOzxdh9N-1" value="Nurse consultation" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1440" y="555" width="120" height="60" as="geometry" />
@@ -56,8 +59,8 @@
         <mxCell id="bt1sG3O_FPqmAOzxdh9N-12" value="request repeat prescription for existing patient" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540.0600000000001" y="629.94" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bt1sG3O_FPqmAOzxdh9N-15" value="patient details" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="998.97" y="721.3399999999999" width="125" height="70" as="geometry" />
+        <mxCell id="bt1sG3O_FPqmAOzxdh9N-15" value="patient details&lt;br&gt;prescription details" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="998.97" y="721.34" width="141.03" height="78.66" as="geometry" />
         </mxCell>
         <mxCell id="bt1sG3O_FPqmAOzxdh9N-17" value="choose&amp;nbsp;&lt;br&gt;appointment&lt;br&gt;type" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810.0600000000001" y="714.94" width="100" height="100" as="geometry" />
@@ -121,7 +124,7 @@
           <mxGeometry x="550.0600000000001" y="754.94" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bt1sG3O_FPqmAOzxdh9N-34" value="store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1060.06" y="694.94" width="40" height="20" as="geometry" />
+          <mxGeometry x="1070" y="689.94" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bt1sG3O_FPqmAOzxdh9N-39" value="patient menu" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="816.6700000000001" y="435" width="90" height="51.4" as="geometry" />
@@ -156,6 +159,11 @@
         <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-7" value="view appointment&lt;br&gt;requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="569.3" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Za7b8PjsQ_Q9GH5Rkt4r-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270.6666666666665" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-9" value="issue prescription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="664.94" width="120" height="60" as="geometry" />
         </mxCell>
@@ -164,6 +172,12 @@
         </mxCell>
         <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-15" value="edit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="425" y="650" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-16" value="print consultation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7b8PjsQ_Q9GH5Rkt4r-19" value="print consultation&lt;br&gt;print prescription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="791.34" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
