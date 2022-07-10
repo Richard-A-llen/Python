@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T09:45:38.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="THAClbKtHgeSdZaMQlew" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T09:52:43.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="Z5xpvvCtK2s71Dk8byHx" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,8 +83,8 @@
         <mxCell id="GDj-0cEsIWtJqUSoCLiY-24" value="start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="-40" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GDj-0cEsIWtJqUSoCLiY-25" value="python used to sanitise all &lt;br&gt;MySQL commands&lt;br&gt;(Prevent injection attack)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="80" width="160" height="60" as="geometry" />
+        <mxCell id="GDj-0cEsIWtJqUSoCLiY-25" value="query parameterization&lt;br&gt;&amp;nbsp;used to sanitise all &lt;br&gt;MySQL commands&lt;br&gt;(Prevent injection attack)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="80" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GDj-0cEsIWtJqUSoCLiY-27" value="Register user&lt;br&gt;first name&lt;br&gt;last name&lt;br&gt;email&lt;br&gt;password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="130" width="120" height="80" as="geometry" />
